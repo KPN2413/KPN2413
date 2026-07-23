@@ -1,31 +1,52 @@
-<h1 align="center">Hi 👋, I'm Prakhar</h1>
-<h3 align="center">A passionate MERN Stack Developer from INDIA focused on crafting seamless digital experiences.</h3>
+from pathlib import Path
 
-- 🔭 I’m currently working on **Pinterest clone**, primarily focusing on the backend as part of my web development journey.
+readme = r'''<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://prakharnarayan.framer.website/](https://prakharnarayan.framer.website/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f766e,100:0284c7&text=K%20Prakhar%20Narayan&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20AI%2FML&descAlignY=59&descSize=18&animation=fadeIn" alt="K Prakhar Narayan header" />
 
-- 💬 Ask me about **Web Development, MERN Stack, UI/UX Design, and creating engaging websites.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=820&height=45&lines=Building+production-ready+full-stack+systems;Working+across+APIs%2C+cloud%2C+databases+and+AI;Exploring+reliable+and+explainable+AI" alt="Typing introduction" />
+</a>
 
-- 📫 How to reach me **prakharnarayan.k@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I once tried to debug a pizza order and realized my browser doesn’t have a “delivery tracker” extension. 🍕**
+<a href="https://www.linkedin.com/in/k-prakhar-narayan-8366b425a/">
+  <img src="https://img.shields.io/badge/LinkedIn-K%20Prakhar%20Narayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:prakharnarayan.k@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/KPN2413?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" />
+</a>
+<a href="https://www.researchgate.net/publication/401550530_FakePay_A_Real-Time_UPI_Fraud_Detection_System_Using_OCR_CNN_and_Ensemble_Machine_Learning">
+  <img src="https://img.shields.io/badge/ResearchGate-FakePay%20Paper-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate publication" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/kprakhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kprakhar1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/k-prakhar-narayan-8366b425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/k-prakhar-narayan-8366b425a/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/kprakharnarayan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/kprakharnarayan04" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/imprakhar_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imprakhar_13/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/prakhar7725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/prakhar7725" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/prakharnarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/prakharnarayan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/prakhar7725" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prakhar7725" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kprakharnarayan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kprakharnarayan1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/prakhar_13_7725/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prakhar_13_7725/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@kprakharnarayan04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@kprakharnarayan04/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kprakharnn7cv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kprakharnn7cv/" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=KPN2413&label=Profile%20views&color=0284c7&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-0f766e?style=flat-square" alt="Open to software engineering internships" />
 
+</div>
+
+---
+
+## `whoami`
+
+I am an **Integrated M.Tech Software Engineering student at VIT-AP** who enjoys building complete products—from the user interface and APIs to databases, deployment and automation.
+
+My work currently sits at the intersection of:
+
+- **Full-stack engineering** — scalable web applications, REST APIs and role-based workflows
+- **Backend and cloud** — databases, authentication, CI/CD, containers and deployment
+- **AI/ML systems** — computer vision, OCR, fraud detection and explainable reasoning
+- **Product thinking** — turning real-world problems into practical, usable software
+
+```ts
+const prakhar = {
+  focus: ["Full-Stack Systems", "Backend APIs", "Cloud Deployment", "AI/ML"],
+  currentlyBuilding: "A Neuro-Symbolic AI framework",
+  education: "Integrated M.Tech in Software Engineering @ VIT-AP",
+  openTo: "Software Engineering and Full-Stack Internships",
+};
