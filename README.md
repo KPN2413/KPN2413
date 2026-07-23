@@ -82,7 +82,7 @@ A full-stack smart-city platform for reporting and resolving public infrastructu
 &nbsp;·&nbsp;
 <a href="https://github.com/KPN2413/v0-civicpulse-ui-design"><b>Source Code</b></a>
 
-<br/><br/>
+<br/>
 
 </td>
 <td width="50%" valign="top">
@@ -128,7 +128,7 @@ A production-style e-commerce platform with authentication, shopping workflows, 
 
 <a href="https://github.com/KPN2413/shopflow"><b>Source Code</b></a>
 
-<br/><br/>
+<br/>
 
 </td>
 </tr>
