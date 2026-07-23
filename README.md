@@ -101,6 +101,7 @@ A real-time UPI fraud-detection system that analyses payment screenshots, QR cod
 `PyTorch` `FastAPI` `OpenCV` `OCR` `NumPy` `Next.js` `TypeScript`
 
 <br/>
+<br/>
 
 <a href="https://fake-pay-coral.vercel.app/"><b>Live Demo</b></a>
  ·  <a href="https://github.com/KPN2413/FakePay"><b>Source Code</b></a>
