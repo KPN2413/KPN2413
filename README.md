@@ -79,7 +79,10 @@ A full-stack smart-city platform for reporting and resolving public infrastructu
 <br/>
 
 <a href="https://v0-civicpulse-ui-design.vercel.app/"><b>Live Demo</b></a>
- ·  <a href="https://github.com/KPN2413/v0-civicpulse-ui-design"><b>Source Code</b></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/KPN2413/v0-civicpulse-ui-design"><b>Source Code</b></a>
+
+<br/><br/>
 
 </td>
 <td width="50%" valign="top">
@@ -124,6 +127,8 @@ A production-style e-commerce platform with authentication, shopping workflows, 
 <br/>
 
 <a href="https://github.com/KPN2413/shopflow"><b>Source Code</b></a>
+
+<br/><br/>
 
 </td>
 </tr>
