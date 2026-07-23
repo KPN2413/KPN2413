@@ -35,7 +35,7 @@
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=38BDF8&vCenter=true&width=280&height=45&lines=%24+whoami"
     alt="Animated whoami heading"
   />
-</p>
+</p> 
 
 I am an **Integrated M.Tech Software Engineering student at VIT-AP** who enjoys building complete products—from the user interface and APIs to databases, deployment and automation.
 
