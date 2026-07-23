@@ -162,21 +162,18 @@ A production-style e-commerce platform with authentication, shopping workflows, 
 
 <div align="center">
 
-<img height="175"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KPN2413&theme=tokyonight"
-     alt="GitHub statistics" />
-
-<img height="175"
+<img width="48%"
      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KPN2413&theme=tokyonight"
-     alt="Languages by repository" />
+     alt="Top languages by repository" />
 
 <br/><br/>
 
 <img width="94%"
      src="https://github-readme-activity-graph.vercel.app/graph?username=KPN2413&theme=tokyo-night&hide_border=true&area=true"
-     alt="GitHub contribution graph" />
+     alt="K Prakhar Narayan's contribution graph" />
 
 </div>
+
 ---
 
 ## Beyond code
