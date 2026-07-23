@@ -32,7 +32,7 @@
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=38BDF8&vCenter=true&width=280&height=45&lines=%24+whoami"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=38BDF8&vCenter=true&width=280&height=45&lines=%24+who am i?"
     alt="Animated who am i? heading"
   />
 </p>
