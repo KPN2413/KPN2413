@@ -181,6 +181,8 @@ A production-style e-commerce platform with authentication, shopping workflows, 
 </table>
 
 </div>
+
+
 ## GitHub activity
 
 <div align="center">
