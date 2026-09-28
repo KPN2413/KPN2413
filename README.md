@@ -156,8 +156,6 @@ A production-style e-commerce platform with authentication, shopping workflows, 
 | **Cloud & DevOps** | Git, Docker, GitHub Actions, Vercel, Railway, Render |
 | **AI/ML**          | PyTorch, OpenCV, OCR, NumPy                          |
 
----
-
 ## GitHub activity
 
 <div align="center">
@@ -166,15 +164,17 @@ A production-style e-commerce platform with authentication, shopping workflows, 
      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KPN2413&theme=tokyonight"
      alt="Top languages by repository" />
 
+<img width="48%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KPN2413&theme=tokyonight"
+     alt="GitHub statistics" />
+
 <br/><br/>
 
-<img width="94%"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=KPN2413&theme=tokyo-night&hide_border=true&area=true"
-     alt="K Prakhar Narayan's contribution graph" />
+<img width="96%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KPN2413&theme=tokyonight"
+     alt="GitHub contribution activity" />
 
 </div>
-
----
 
 ## Beyond code
 
