@@ -143,19 +143,44 @@ A production-style e-commerce platform with authentication, shopping workflows, 
 
 <img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp,react,nextjs,nodejs,express,fastapi,postgres,mongodb,mysql,supabase,redis,prisma,docker,git,githubactions,vercel,pytorch,opencv,tailwind&perline=12" alt="Technology stack" />
 
+<br/><br/>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>Java, JavaScript, TypeScript, Python, C++</td>
+    </tr>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>React, Next.js, HTML5, CSS3, Tailwind CSS</td>
+    </tr>
+    <tr>
+      <td><b>Backend</b></td>
+      <td>Node.js, Express.js, FastAPI, NestJS, REST APIs</td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td>PostgreSQL, MongoDB, MySQL, Supabase, Redis, Prisma</td>
+    </tr>
+    <tr>
+      <td><b>Cloud & DevOps</b></td>
+      <td>Git, Docker, GitHub Actions, Vercel, Railway, Render</td>
+    </tr>
+    <tr>
+      <td><b>AI/ML</b></td>
+      <td>PyTorch, OpenCV, OCR, NumPy</td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
-
-<br/>
-
-| Area               | Technologies                                         |
-| ------------------ | ---------------------------------------------------- |
-| **Languages**      | Java, JavaScript, TypeScript, Python, C++            |
-| **Frontend**       | React, Next.js, HTML5, CSS3, Tailwind CSS            |
-| **Backend**        | Node.js, Express.js, FastAPI, NestJS, REST APIs      |
-| **Databases**      | PostgreSQL, MongoDB, MySQL, Supabase, Redis, Prisma  |
-| **Cloud & DevOps** | Git, Docker, GitHub Actions, Vercel, Railway, Render |
-| **AI/ML**          | PyTorch, OpenCV, OCR, NumPy                          |
-
 ## GitHub activity
 
 <div align="center">
